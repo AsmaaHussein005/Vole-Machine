@@ -1,0 +1,9 @@
+﻿  main.cpp
+  voleMachine.cpp
+C:\Users\User\source\repos\voleMachine\voleMachine.cpp(6,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\source\repos\voleMachine\voleMachine.cpp(58,56): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\voleMachine\voleMachine.cpp(72,31): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\voleMachine\voleMachine.cpp(83,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\voleMachine\voleMachine.cpp(109,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  voleMachine.vcxproj -> C:\Users\User\source\repos\voleMachine\x64\Debug\voleMachine.exe
